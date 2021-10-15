@@ -1,6 +1,5 @@
 from random import randrange, getrandbits
 
-
 def is_prime(n, k=128):
     if n == 2 or n == 3:
         return True
